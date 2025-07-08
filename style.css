@@ -6,3 +6,19 @@ body{
     border-radius: 0px !important;
     border-color: #efefef ;
 }
+
+.profile{
+    width: 50px;
+    border-radius: 50%;
+
+}
+
+.card-profile{
+    width: 50px;
+    border-width: 3px;
+    border-style: solid;
+    border: double 1em transparent;
+    background-image:linear-gradient(white,white), linear-gradient(to right, #833ab4, #fd1d1d, #fcb045) ;
+    background-origin: border-box;
+    background-clip: content-box,;
+}
